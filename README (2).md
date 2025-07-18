@@ -28,9 +28,13 @@ To build a robust classifier that predicts whether an uploaded **500 INR note im
        - Resize to 224x224
        - Normalization with ImageNet mean and std
  8. Dataset uploaded publicly to kaggle for public for public use and future use
-     Dataset Link: [https://www.kaggle.com/datasets/iayushanand/currency-dataset500-inr-note-real-fake ](url)
-
+     Dataset Link: [https://www.kaggle.com/datasets/ashish2k22a318/indian-currency-dataset/data
+](url)
  9. Use case:
+    *Fake Currency Detection System (Real-World Application)
+    *Can be used by banks, reatil shop,ATMs,Mobile app for individual
+    *Dataset for Kaggle Competitions / Research Papers
+    *Educational Projects / Portfolios
 ## 🏗️ Model Architecture
 
 - **Base Model:** ResNet18 (pretrained on ImageNet)
@@ -53,5 +57,5 @@ Test Accuracy: 0.9560
 ✅ **Model weights saved** as `currency_classifier_resnet18.pth` for deployment and reuse.
 
 ---
-Kaggle Notebook Link:-https://www.kaggle.com/code/iayushanand/fake-currency-detector/edit/run/251138203 /
-
+Kaggle Notebook Link:-https:https:[//www.kaggle.com/code/ashish2k22a318/notebookced1ac44b6/edit/run/251259408
+](url)
